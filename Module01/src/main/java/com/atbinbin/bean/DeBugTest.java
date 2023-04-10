@@ -24,6 +24,8 @@ public class DeBugTest {
 
         map.remove("major");
         System.out.println(map);
+
+        System.out.println(age);
     }
 
 }
